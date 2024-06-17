@@ -1,6 +1,6 @@
 ## NIGIX OUTSOURCING LIMITED
 
-## [Project 1 - Enhancing E-comerce Platform Performance](www.youtube.com)
+## [Project 1 - Enhancing E-comerce Platform Performance](http://www.youtube.com)
 
 ### Client Problem
 An e-commerce company was facing significant performance issues during peak shopping seasons, leading to slow page loads, frequent crashes, and a poor user experience. This resulted in a high cart abandonment rate and lost revenue.
