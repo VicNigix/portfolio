@@ -1,4 +1,4 @@
-## **NIGIX OUTSOURCING LIMITED**
+## NIGIX OUTSOURCING LIMITED
 
 ## **Project 1 - Enhancing E-comerce Platform Performance**
 
