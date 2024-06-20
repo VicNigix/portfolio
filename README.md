@@ -1,15 +1,15 @@
 ## NIGIX OUTSOURCING LIMITED
 
-## **Project 1 - Enhancing E-comerce Platform Performance**
+## **Project 1 - Exploratory Data Analysis of Housing Data**
 
 ### Client Problem
-An e-commerce company was facing significant performance issues during peak shopping seasons, leading to slow page loads, frequent crashes, and a poor user experience. This resulted in a high cart abandonment rate and lost revenue.
+A real estate company was struggling to make sense of their data and leverage data analysis for better decision-making. They faced significant challenges in processing large datasets and extracting meaningful insights from complex data relationships.
 
 ### Our Solution
-Our team conducted a comprehensive performance audit of the client's platform. We identified bottlenecks in the server infrastructure and database queries. We then implemented a series of optimizations, including server upgrades, database indexing, and implementing a content delivery network (CDN) to distribute load. Additionally, we migrated the platform to a scalable cloud infrastructure that could handle traffic spikes.
+Our team conducted a thorough exploratory data analysis (EDA) to uncover valuable insights from the client's housing dataset. We started by ensuring data integrity and completeness, followed by generating comprehensive statistical summaries. To provide clear and actionable insights, we created various visualizations to highlight key patterns and correlations within the data.
 
 ### The Outcome
-The optimizations and migration resulted in a 60% reduction in page load times and a 99.9% uptime during peak shopping periods. The client's cart abandonment rate decreased by 30%, and overall sales during high-traffic events increased by 20%.
+The exploratory analysis revealed critical correlations between features, geographical distributions of house values, and identified data patterns and outliers. These insights led to a 25% improvement in decision-making efficiency and a 15% increase in predictive accuracy for future housing prices.
 
 ## **Project 2 - Modernizing Legacy Systems for a Financial Institution**
 
