@@ -25,5 +25,5 @@ We developed a smart fare prediction system using Deep Neural Networks (DNN), ta
 ### The Outcome
 Our solution achieved a 20% increase in fare prediction accuracy compared to previous methods, resulting in more precise pricing for customers. This improvement led to a reduction of customer complaints related to fare estimates by 10%, enhancing overall customer satisfaction and operational efficiency for the taxi company.
 
-![Diagram](images/dnn_model.png)
+![Diagram]()
 DNN Model
