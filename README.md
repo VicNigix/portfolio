@@ -11,6 +11,7 @@ Our team conducted a thorough exploratory data analysis (EDA) to uncover valuabl
 ### The Outcome
 The exploratory analysis revealed critical correlations between features, geographical distributions of house values, and identified data patterns and outliers. These insights led to a 25% improvement in decision-making efficiency and a 15% increase in predictive accuracy for future housing prices.
 
+Heatmap Correlation
 ![Diagram](images/housingplot.png)
 
 ## **Project 2 - Modernizing Legacy Systems for a Financial Institution**
