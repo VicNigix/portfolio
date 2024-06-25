@@ -26,10 +26,25 @@ We developed an advanced visitor purchase prediction system using an e-commerce 
 Our solution improved the accuracy of purchase predictions by 25%, allowing the e-commerce company to better target their marketing efforts. This led to a 15% increase in conversion rates and a hence a boost in revenue. It also enabled more personalized customer experiences, further driving customer satisfaction and loyalty.
 
 Performance Criteria
-|Model|roc_auc |Model_quality|
-|-----|--------|-------------|
-|   1	|0.724588|	not great  |
-|   2 |0.910382|	  good     |
+# Model Performance
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>ROC AUC</th>
+    <th>Model Quality</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0.724588</td>
+    <td>not great</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>0.910382</td>
+    <td>good</td>
+  </tr>
+</table>
 
 ## **Project 3 - Fare prediction for US Taxi Cab Rides**
 
