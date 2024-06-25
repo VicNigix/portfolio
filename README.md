@@ -12,6 +12,7 @@ Our team conducted a thorough exploratory data analysis (EDA) to uncover valuabl
 The exploratory analysis revealed critical correlations between features, geographical distributions of house values, and identified data patterns and outliers. These insights led to a 25% improvement in decision-making efficiency and a 15% increase in predictive accuracy for future housing prices.
 
 Heatmap Correlation
+
 ![Diagram](images/housingplot.png)
 
 
@@ -25,6 +26,7 @@ We developed an advanced visitor purchase prediction system using an e-commerce 
 
 ### The Outcome
 Our solution improved the accuracy of purchase predictions by 25%, allowing the e-commerce company to better target their marketing efforts. This led to a 15% increase in conversion rates and a hence a boost in revenue. It also enabled more personalized customer experiences, further driving customer satisfaction and loyalty.
+
 
 Performance Criteria
 <table>
@@ -56,6 +58,7 @@ We developed a smart fare prediction system using Deep Neural Networks (DNN), ta
 
 ### The Outcome
 Our solution achieved a 20% increase in fare prediction accuracy compared to previous methods, resulting in more precise pricing for customers. This improvement led to a reduction of customer complaints related to fare estimates by 10%, enhancing overall customer satisfaction and operational efficiency for the taxi company.
+
 
 ![Diagram](images/dnn_model.png)
 DNN Model
