@@ -14,6 +14,7 @@ The exploratory analysis revealed critical correlations between features, geogra
 Heatmap Correlation
 ![Diagram](images/housingplot.png)
 
+
 ## **Project 2 - Visitor Purchase Prediction for E-commerce**
 
 ### Client Problem
@@ -43,6 +44,7 @@ Performance Criteria
     <td>good</td>
   </tr>
 </table>
+
 
 ## **Project 3 - Fare prediction for US Taxi Cab Rides**
 
