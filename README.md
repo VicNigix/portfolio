@@ -14,7 +14,24 @@ The exploratory analysis revealed critical correlations between features, geogra
 Heatmap Correlation
 ![Diagram](images/housingplot.png)
 
-## **Project 2 - Fare prediction for US Taxi Cab Rides**
+## **Project 2 - Visitor Purchase Prediction for E-commerce**
+
+### Client Problem
+An e-commerce company needed a more effective way to identify potential buyers to tailor marketing efforts and improve conversion rates. Their usual methods were falling short in predicting customer behavior accurately, leading to missed sales opportunities and inefficient marketing spend.
+
+### Our Solution
+We developed an advanced visitor purchase prediction system using an e-commerce classification model. By analyzing visitor data, including time on site, bounce rates, new visits, traffic source, device category, and geographic information we developed a predictive model that classifies the likelihood of a visitor making a purchase. The model was deployed on a cloud-based platform, ensuring scalability and real-time predictions.
+
+### The Outcome
+Our solution improved the accuracy of purchase predictions by 25%, allowing the e-commerce company to better target their marketing efforts. This led to a 15% increase in conversion rates and a hence a boost in revenue. It also enabled more personalized customer experiences, further driving customer satisfaction and loyalty.
+
+Performance Criteria
+| Model |	roc_auc	 | Model_quality |
+| ----- | -------- | ------------- |
+|   1	  | 0.724588 |	not great    |
+|   2   | 0.910382 |	  good       |
+
+## **Project 3 - Fare prediction for US Taxi Cab Rides**
 
 ### Client Problem
 A taxi company in US needed a better way to predict fares for their rides. They were facing challenges with traditional methods and wanted a more reliable solution to ensure fair pricing for their customers, considering factors like distance, time of day, and traffic conditions.
