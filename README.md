@@ -26,8 +26,6 @@ We developed an advanced visitor purchase prediction system using an e-commerce 
 Our solution improved the accuracy of purchase predictions by 25%, allowing the e-commerce company to better target their marketing efforts. This led to a 15% increase in conversion rates and a hence a boost in revenue. It also enabled more personalized customer experiences, further driving customer satisfaction and loyalty.
 
 Performance Criteria
-# Model Performance
-
 <table>
   <tr>
     <th>Model</th>
