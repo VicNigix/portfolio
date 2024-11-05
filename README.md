@@ -1,4 +1,4 @@
-## NIGIX OUTSOURCING LIMITED
+## Nigix Solutions Portfolio
 
 ## ** Blooming Dew - Smart Customer AI Engagement Solutions**
 
