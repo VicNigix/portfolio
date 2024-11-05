@@ -1,6 +1,6 @@
 ## Nigix Solutions Portfolio
 
-## ** Blooming Dew - Smart Customer AI Engagement Solutions**
+## **Blooming Dew - Smart Customer AI Engagement Solutions**
 
 ### Client Problem
 A company needed a more effective way to enhance customer service and communication. They faced challenges with traditional customer support methods, which resulted in long response times and decreased customer satisfaction. The company sought a reliable solution to streamline communication, answer common inquiries, and provide real-time support to their customers.
