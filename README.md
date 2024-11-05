@@ -1,16 +1,16 @@
 ## NIGIX OUTSOURCING LIMITED
 
-## **Legacy Realty - Exploratory Data Analysis for Real Estate**
+## ** Blooming Dew - Smart Customer AI Engagement Solutions**
 
 ### Client Problem
-A real estate company was struggling to make sense of their data and leverage data analysis for better decision-making. They faced significant challenges in processing large datasets and extracting meaningful insights from complex data relationships.
+A company needed a more effective way to enhance customer service and communication. They faced challenges with traditional customer support methods, which resulted in long response times and decreased customer satisfaction. The company sought a reliable solution to streamline communication, answer common inquiries, and provide real-time support to their customers.
 
 ### Our Solution
-Our team conducted a thorough exploratory data analysis (EDA) to uncover valuable insights from the client's housing dataset. We started by ensuring data integrity and completeness, followed by generating comprehensive statistical summaries. To provide clear and actionable insights, we created various visualizations to highlight key patterns and correlations within the data.
+We developed an AI-powered chatbot integrated into the company's customer service platform. Utilizing Natural Language Processing (NLP) and machine learning algorithms, the chatbot was designed to handle a wide range of customer interactions, including inquiries, support requests, and service-related questions. Deployed on a scalable cloud platform, the chatbot ensured seamless communication and could efficiently manage multiple inquiries simultaneously.
+
 
 ### The Outcome
-The exploratory analysis revealed critical correlations between features, geographical distributions of house values, and identified data patterns and outliers. These insights led to a 25% improvement in decision-making efficiency and a 15% increase in predictive accuracy for future housing prices.
-
+Our solution resulted in a 30% reduction in average response time to customer inquiries, significantly improving customer engagement. The chatbot effectively managed 70% of customer interactions without the need for human intervention, allowing human agents to focus on more complex issues. This enhancement led to a 15% increase in overall customer satisfaction and a notable decrease in customer complaints, streamlining operations for the company.
 Heatmap Correlation
 
 ![Diagram](images/housingplot.png)
@@ -47,17 +47,16 @@ Performance Criteria
 </table>
 
 
-## ** Blooming Dew - Smart Customer AI Engagement Solutions**
+## **Legacy Realty - Exploratory Data Analysis for Real Estate**
 
 ### Client Problem
-A company needed a more effective way to enhance customer service and communication. They faced challenges with traditional customer support methods, which resulted in long response times and decreased customer satisfaction. The company sought a reliable solution to streamline communication, answer common inquiries, and provide real-time support to their customers.
+A real estate company was struggling to make sense of their data and leverage data analysis for better decision-making. They faced significant challenges in processing large datasets and extracting meaningful insights from complex data relationships.
 
 ### Our Solution
-We developed an AI-powered chatbot integrated into the company's customer service platform. Utilizing Natural Language Processing (NLP) and machine learning algorithms, the chatbot was designed to handle a wide range of customer interactions, including inquiries, support requests, and service-related questions. Deployed on a scalable cloud platform, the chatbot ensured seamless communication and could efficiently manage multiple inquiries simultaneously.
-
+Our team conducted a thorough exploratory data analysis (EDA) to uncover valuable insights from the client's housing dataset. We started by ensuring data integrity and completeness, followed by generating comprehensive statistical summaries. To provide clear and actionable insights, we created various visualizations to highlight key patterns and correlations within the data.
 
 ### The Outcome
-Our solution resulted in a 30% reduction in average response time to customer inquiries, significantly improving customer engagement. The chatbot effectively managed 70% of customer interactions without the need for human intervention, allowing human agents to focus on more complex issues. This enhancement led to a 15% increase in overall customer satisfaction and a notable decrease in customer complaints, streamlining operations for the company.
+The exploratory analysis revealed critical correlations between features, geographical distributions of house values, and identified data patterns and outliers. These insights led to a 25% improvement in decision-making efficiency and a 15% increase in predictive accuracy for future housing prices.
 
 ![Diagram](images/dnn_model.png)
 DNN Model
