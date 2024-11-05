@@ -1,6 +1,6 @@
 ## Nigix Solutions Portfolio
 
-## **Travel Bay - Streamlining the Travel Process 
+## **Travel Bay - Streamlining the Travel Process**
 
 ## Client Problem
 Travel Bay, a travel services company, faced challenges in providing a seamless user experience for their customers during the travel booking process. Their existing website was outdated and difficult to navigate, leading to high bounce rates and a loss of potential bookings. Customers struggled to find the information they needed, which resulted in frustration and decreased satisfaction.
