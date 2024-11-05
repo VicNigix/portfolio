@@ -1,6 +1,6 @@
 ## NIGIX OUTSOURCING LIMITED
 
-## **Project 1 - Exploratory Data Analysis for Real Estate**
+## **Legacy Realty - Exploratory Data Analysis for Real Estate**
 
 ### Client Problem
 A real estate company was struggling to make sense of their data and leverage data analysis for better decision-making. They faced significant challenges in processing large datasets and extracting meaningful insights from complex data relationships.
@@ -16,49 +16,48 @@ Heatmap Correlation
 ![Diagram](images/housingplot.png)
 
 
-## **Project 2 - Visitor Purchase Prediction for E-commerce**
+## **Kwika - AI-Driven Predictive Insights for Aviation Hardware Health**
 
 ### Client Problem
-An e-commerce company needed a more effective way to identify potential buyers to tailor marketing efforts and improve conversion rates. Their usual methods were falling short in predicting customer behavior accurately, leading to missed sales opportunities and inefficient marketing spend.
+An aviation company faced challenges in accurately forecasting flight demand and optimizing aircraft utilization. Their existing methods were insufficient in predicting customer booking behavior, leading to overcapacity on some flights and underutilization on others, which resulted in lost revenue opportunities and increased operational costs.
 
 ### Our Solution
-We developed an advanced visitor purchase prediction system using an e-commerce classification model. By analyzing visitor data, including time on site, bounce rates, new visits, traffic source, device category, and geographic information we developed a predictive model that classifies the likelihood of a visitor making a purchase. The model was deployed on a cloud-based platform, ensuring scalability and real-time predictions.
+We developed an advanced predictive analysis platform specifically for the aviation industry. By leveraging a classification model that analyzes various factors such as historical booking patterns, seasonal trends, ticket prices, competitor activity, customer demographics, and external variables like weather conditions and economic indicators, we created a predictive model that estimates the likelihood of flight bookings. This model was deployed on a cloud-based infrastructure, ensuring scalability and real-time data processing.
 
 ### The Outcome
-Our solution improved the accuracy of purchase predictions by 25%, allowing the e-commerce company to better target their marketing efforts. This led to a 15% increase in conversion rates and a hence a boost in revenue. It also enabled more personalized customer experiences, further driving customer satisfaction and loyalty.
-
+Our solution enhanced the accuracy of flight demand predictions by 30%, enabling the aviation company to optimize their flight schedules and resource allocation. This led to a 20% increase in overall revenue, as the company was able to adjust pricing strategies and marketing efforts based on accurate forecasts. Additionally, the improved predictive capabilities allowed for better customer service by providing passengers with more reliable flight options and dynamic pricing tailored to their booking behavior.
 
 Performance Criteria
-<table>
-  <tr>
-    <th>Model</th>
-    <th>ROC AUC</th>
-    <th>Model Quality</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>0.724588</td>
-    <td>not great</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>0.910382</td>
+<table> 
+  <tr> 
+  <th>Model</th> 
+  <th>ROC AUC</th> 
+  <th>Model Quality</th> 
+  </tr> 
+  <tr> 
+    <td>1</td> 
+    <td>0.762345</td> 
     <td>good</td>
-  </tr>
+    </tr> 
+    <tr> 
+    <td>2</td> 
+    <td>0.925678</td> 
+    <td>excellent</td> 
+  </tr> 
 </table>
 
 
-## **Project 3 - Fare prediction for US Taxi Cab Rides**
+## ** Blooming Dew - Smart Customer AI Engagement Solutions**
 
 ### Client Problem
-A taxi company in US needed a better way to predict fares for their rides. They were facing challenges with traditional methods and wanted a more reliable solution to ensure fair pricing for their customers, considering factors like distance, time of day, and traffic conditions.
+A company needed a more effective way to enhance customer service and communication. They faced challenges with traditional customer support methods, which resulted in long response times and decreased customer satisfaction. The company sought a reliable solution to streamline communication, answer common inquiries, and provide real-time support to their customers.
 
 ### Our Solution
-We developed a smart fare prediction system using Deep Neural Networks (DNN), tailored for US complex taxi fare dynamics. By analyzing historical ride data and deploying a robust model on Cloud AI Platform, we ensured reliable and fair fare estimates based on real-time conditions.
+We developed an AI-powered chatbot integrated into the company's customer service platform. Utilizing Natural Language Processing (NLP) and machine learning algorithms, the chatbot was designed to handle a wide range of customer interactions, including inquiries, support requests, and service-related questions. Deployed on a scalable cloud platform, the chatbot ensured seamless communication and could efficiently manage multiple inquiries simultaneously.
+
 
 ### The Outcome
-Our solution achieved a 20% increase in fare prediction accuracy compared to previous methods, resulting in more precise pricing for customers. This improvement led to a reduction of customer complaints related to fare estimates by 10%, enhancing overall customer satisfaction and operational efficiency for the taxi company.
-
+Our solution resulted in a 30% reduction in average response time to customer inquiries, significantly improving customer engagement. The chatbot effectively managed 70% of customer interactions without the need for human intervention, allowing human agents to focus on more complex issues. This enhancement led to a 15% increase in overall customer satisfaction and a notable decrease in customer complaints, streamlining operations for the company.
 
 ![Diagram](images/dnn_model.png)
 DNN Model
