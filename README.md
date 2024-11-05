@@ -22,21 +22,6 @@ The newly designed Travel Bay website led to a significant increase in user enga
 - 25% increase in bookings within the first three months post-launch
 - Enhanced customer satisfaction ratings, with positive feedback highlighting the ease of navigation and comprehensive travel information.
 
-## **Blooming Dew - Smart Customer AI Engagement Solutions**
-
-### Client Problem
-A company needed a more effective way to enhance customer service and communication. They faced challenges with traditional customer support methods, which resulted in long response times and decreased customer satisfaction. The company sought a reliable solution to streamline communication, answer common inquiries, and provide real-time support to their customers.
-
-### Our Solution
-We developed an AI-powered chatbot integrated into the company's customer service platform. Utilizing Natural Language Processing (NLP) and machine learning algorithms, the chatbot was designed to handle a wide range of customer interactions, including inquiries, support requests, and service-related questions. Deployed on a scalable cloud platform, the chatbot ensured seamless communication and could efficiently manage multiple inquiries simultaneously.
-
-
-### The Outcome
-Our solution resulted in a 30% reduction in average response time to customer inquiries, significantly improving customer engagement. The chatbot effectively managed 70% of customer interactions without the need for human intervention, allowing human agents to focus on more complex issues. This enhancement led to a 15% increase in overall customer satisfaction and a notable decrease in customer complaints, streamlining operations for the company.
-Heatmap Correlation
-
-![Diagram](images/housingplot.png)
-
 
 ## **Kwika - AI-Driven Predictive Insights for Aviation Hardware Health**
 
@@ -68,6 +53,20 @@ Performance Criteria
   </tr> 
 </table>
 
+## **Blooming Dew - Smart Customer AI Engagement Solutions**
+
+### Client Problem
+A company needed a more effective way to enhance customer service and communication. They faced challenges with traditional customer support methods, which resulted in long response times and decreased customer satisfaction. The company sought a reliable solution to streamline communication, answer common inquiries, and provide real-time support to their customers.
+
+### Our Solution
+We developed an AI-powered chatbot integrated into the company's customer service platform. Utilizing Natural Language Processing (NLP) and machine learning algorithms, the chatbot was designed to handle a wide range of customer interactions, including inquiries, support requests, and service-related questions. Deployed on a scalable cloud platform, the chatbot ensured seamless communication and could efficiently manage multiple inquiries simultaneously.
+
+
+### The Outcome
+Our solution resulted in a 30% reduction in average response time to customer inquiries, significantly improving customer engagement. The chatbot effectively managed 70% of customer interactions without the need for human intervention, allowing human agents to focus on more complex issues. This enhancement led to a 15% increase in overall customer satisfaction and a notable decrease in customer complaints, streamlining operations for the company.
+Heatmap Correlation
+
+![Diagram](images/housingplot.png)
 
 ## **Legacy Realty - Exploratory Data Analysis for Real Estate**
 
