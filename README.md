@@ -23,7 +23,7 @@ The newly designed Travel Bay website led to a significant increase in user enga
 - Enhanced customer satisfaction ratings, with positive feedback highlighting the ease of navigation and comprehensive travel information.
 
 
-## **Kwika - AI-Driven Predictive Insights for Aviation Hardware Health**
+## **Kquika - AI-Driven Predictive Insights for Aviation Hardware Health**
 
 ### Client Problem
 An aviation company faced challenges in accurately forecasting flight demand and optimizing aircraft utilization. Their existing methods were insufficient in predicting customer booking behavior, leading to overcapacity on some flights and underutilization on others, which resulted in lost revenue opportunities and increased operational costs.
